@@ -1,4 +1,5 @@
 # train_deep_learning_101
+slide: https://drive.google.com/open?id=1uMXUhQHG1UyN7ntRBkCQV834gWhpumtrzHQjgcZizLA
 
 Train basic of deep learning inside my company.
 Most of materials are from
